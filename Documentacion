@@ -1,0 +1,12 @@
+# Análisis del impacto de campañas publicitarias 
+## Objetivo 
+Evaluar el desempeño de campañas publicitarias en distintos medios utilizando métricas de alcance, 
+interacción y retorno. 
+## Datos 
+Dataset en formato Excel con información estructurada de campañas. 
+## Metodología - Carga y exploración de datos - Cálculo de métricas promedio - Generación de dashboard comparativo - Exportación de reportes por área 
+## Resultados 
+Se observan diferencias relevantes en ROI y conversiones entre medios, 
+lo que permite apoyar decisiones estratégicas y operativas. 
+## Observaciones 
+El flujo desarrollado facilita la reutilización del análisis en otros proyectos.
