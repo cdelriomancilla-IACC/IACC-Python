@@ -13,9 +13,8 @@ def calcular_metricas(serie_datos):
   asimetria = stats.skew(arreglo)
 
   return {
-      'promedio': round(media, 2),
-      'desviacion': round(desviacion, 2),
-      'asimetria': round(asimetria, 2),
+      'promedio': round(float(media), 2),
+      'desviacion': round(float(desviacion), 2),
   }
 
 
